@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Inuma11/Inuma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `> INUMA11`
 
-Here are some ideas to get you started:
+**AI / Robotics / Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Welcome to the terminal.*
+
+</div>
+
+```text
+inuma11@github:~$ boot profile
+
+[ OK ] identity: anonymous
+[ OK ] status: online
+[ OK ] focus: AI / Robotics
+[ OK ] mode: building and experimenting
+
+inuma11@github:~$ help
+available commands:
+- whoami
+- skills
+- projects
+- stats
+- contact
