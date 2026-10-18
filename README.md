@@ -1,25 +1,45 @@
+ 
 <div align="center">
 
-# `> INUMA11`
-
-**AI / Robotics / Engineering**
+# `> INUMA11_`
 
 *Welcome to the terminal.*
 
 </div>
 
 ```text
-inuma11@github:~$ boot profile
+inuma11@github:~$ ./startup.sh
 
-[ OK ] identity: anonymous
-[ OK ] status: online
-[ OK ] focus: AI / Robotics
-[ OK ] mode: building and experimenting
+[    0.000000] Initializing system...
+[    0.102431] Loading kernel modules...
+[    0.284120] Mounting filesystem...
+[    0.391824] Establishing connection...
+[    0.582193] Checking system integrity...
 
-inuma11@github:~$ help
-available commands:
-- whoami
-- skills
-- projects
-- stats
-- contact
+[       OK ] System initialized.
+[       OK ] Connection established.
+[       OK ] User authenticated.
+
+[  WARNING ] Unknown entity detected.
+[  WARNING ] Unexpected process: annoying_dog.exe
+
+inuma11@github:~$ ps aux | grep dog
+
+         / \__
+        (    @\___
+        /         O
+       /   (_____/
+      /_____/   U
+
+[     INFO ] The dog has absorbed the source code.
+[     INFO ] The dog refuses to elaborate.
+[       OK ] System ready.
+
+inuma11@github:~$ _
+```
+
+<div align="center">
+
+`[ SYSTEM ONLINE ]`
+
+</div>
